@@ -1,4 +1,4 @@
-# KEEP THIS REPOSITORY PRIVATE!
+# KEEP THIS REPOSITORY SEMI PRIVATE!
 It containes things like the Bot Key and admin commands that can be used to mess up the discord server.
 
 
