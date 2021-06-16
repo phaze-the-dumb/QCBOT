@@ -12,4 +12,4 @@ Please make sure to post in #staff-talk and #logs with a ping to a moderator whe
 
 !ping: Pings the bot
 
-!dash: Sends a DM with a link to the Bot dashbored
+!dash: Sends a DM with a link to the Bot dashboard
